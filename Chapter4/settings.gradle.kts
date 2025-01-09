@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "FirstMultiScreenApp"
 include(":app")
+include(":app")
  
